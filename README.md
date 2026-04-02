@@ -66,52 +66,52 @@ I'm currently on a focused journey to become a well-rounded software developer �
 
 <table>
 <tr>
-<td width="50%">
-
+<td width="50%" valign="top">
+ 
 ### 💰 FinTrack
 **Personal Finance Dashboard**
-
+ 
 A fully responsive finance dashboard to track income, expenses, and spending patterns with rich data visualizations.
-
+ 
 **Tech Stack:**
-
+ 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-
+ 
 **Highlights:**
 - 📊 Area & pie charts for balance trends and spending breakdown
 - 🔐 Role-based UI — Admin (add/delete) & Viewer (read-only) modes
 - 🔍 Search, filter & sort across 20+ dynamic transactions
 - 🗂️ Redux Toolkit slices for transactions & user roles
-
+ 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge)](https://financetrack-dashboard.netlify.app/)
 [![GitHub](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Chahal-Yashika/FinTrack_Dashboard/tree/my-new-branch)
-
+ 
 </td>
-<td width="50%">
-
+<td width="50%" valign="top">
+ 
 ### 📝 Notes Manager
 **Full-Stack CRUD Application**
-
+ 
 A clean and efficient notes management system to create, view, update, and delete notes in real time.
-
+ 
 **Tech Stack:**
-
+ 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-
+ 
 **Highlights:**
 - ⚡ Full CRUD with API integration
 - 🔄 Real-time UI updates via React Hooks
 - 🧩 Modular & maintainable architecture
-
+ 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge)](https://axiospro.netlify.app/)
 [![GitHub](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Chahal-Yashika/CRUD_AXIOS)
-
+ 
 </td>
 </tr>
 </table>
